@@ -9,7 +9,7 @@ The name of this blog is "*Subject of Information*" (Deutsch: *Informationswesen
 1. "the topic of information".
 2. "a being made of information".
 
-Consider my posts members of the former, written by one of the latter `:)`.
+Consider my posts as members of the former, written by one of the latter `:)`.
 
 ## Posts
 
