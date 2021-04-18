@@ -20,6 +20,10 @@ $body-link-color: hsl(4deg, 100%, 55%);
   color: rgb(255, 255, 255);
 }
 
+.page-header .btn {
+  display: none;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background: #181818;
@@ -27,8 +31,7 @@ $body-link-color: hsl(4deg, 100%, 55%);
   }
 
   .page-header {
-    background-color: $dark-header-bg-color;
-    background-image: linear-gradient(120deg, $dark-header-bg-color-secondary, $dark-header-bg-color);
+    background: linear-gradient(90deg, #1f005c, #5b0060, #870160, #ac255e, #ca485c, #e16b5c, #f39060, #ffb56b);
   }
 
   .btn {
@@ -51,7 +54,7 @@ $body-link-color: hsl(4deg, 100%, 55%);
   .main-content h4,
   .main-content h5,
   .main-content h6 {
-    color: #ff6a33;
+    color: deeppink;
   }
 
   a {
