@@ -1,10 +1,12 @@
-# Ramblings on Ghana, Africa and the future
+# Ramblings on Ghana, Africa and the Future
 
 ![Giraffe](giraffe.png)
 
-Hello world!
+The art above is derived from wall decorations found in the [Ayensudo Primary School, Ghana](https://ayensudoma.wordpress.com/).
 
-last Saturday, exactly three weeks ago, I arrived in Ghana. I would like to devote this blog entry to explaining some of my most significant impressions from living here. Although I’m giving my best, I feel like I’m trying to comprehend a forest by looking at a handful of dirt. Let me give it a shot though.
+**Hello world!**
+
+Last Saturday, exactly three weeks ago, I arrived in Ghana. I would like to devote this blog entry to explaining some of my most significant impressions from living here. Although I’m giving my best, I feel like I’m trying to comprehend a forest by looking at a handful of dirt. Let me give it a shot though.
 
 I think the first thing that jumped to my eyes coming from the airport and traveling to Komenda on September 7th were the remarkable effects of Globalization, at least on southern Ghana. I would tend to think that this applies to most of Africa though. Globalization for Ghana (as for most parts of Africa) started with British, Dutch and Portuguese colonialism, with the Brits getting the upper hand in the end. And it extends towards todays colonialism by transnational corporations. What used to be the British is now Coca-Cola, Microsoft, Samsung, Sony, Nestle, etc and China. (China kind of being a transnational corporation of its own.)
 

@@ -9,14 +9,10 @@ Hello there! My name is Joseph Birkner, but I also frequently go by *realitivity
 
 The name of this blog is "*Subject of Information*" (Deutsch: *Informationswesen*), because the phrase has a fun heteronymity to it:
  
-1. It means "the topic of information".
-2. It describes "a being made of information".
+1. "the topic of information".
+2. "a being made of information".
 
 Consider the my blog posts as members of the former, written by one of the latter `:)`.
-
-![Giraffe](blog/1_africa/giraffe.png)
-
-The art above is derived from wall decorations found in the [Ayensudo Primary School, Ghana](https://ayensudoma.wordpress.com/).
 
 ## Posts
 
@@ -25,7 +21,7 @@ The art above is derived from wall decorations found in the [Ayensudo Primary Sc
 * `2015/07/13`: Natural Language Processing [[English]](blog/3_nlp/en.md)
 * `2015/01/28`: Deutschland kennenlernen [[Deutsch]](blog/4_deutschland/de.md)
 * `2014/07/22`: Leaving Ghana [[English]](blog/2_leaving_ghana/en.md)
-* `2013/09/30`: Ramblings on Ghana, Africa and the World [[English]](blog/1_africa/en.md)
+* `2013/09/30`: Ghana and the World [[English]](blog/1_africa/en.md)
 * `2013/09/26`: Komenda [[English]](blog/0_komenda/en.md)
 
 ## Links
