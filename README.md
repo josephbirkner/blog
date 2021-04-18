@@ -4,7 +4,7 @@
 
 ## About
 
-The name of this blog is "*Subject of Information*" (Deutsch: *Informationswesen*), because the phrase has a fun heteronymity to it (even in German!):
+The phrase "*Subject of Information*" (Deutsch: *Informationswesen*) has a *fun* heteronymity to it (even in German!):
  
 1. First meaning: *"the topic of information"*
 2. Second meaning: *"a being made of information"*
