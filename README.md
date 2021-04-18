@@ -1,6 +1,3 @@
-
-# Subject of Information
-
 ![me](me.jpg)
 
 Hello there! My name is Joseph Birkner, but I also frequently go by *realitivity* (*Realitivität*). While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow a declarative syntax.
