@@ -3,13 +3,16 @@
 
 ![me](me.jpg)
 
-Hello there! My name is Joseph, but I also frequently go by *realitivity* (*Realitivität*). While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow an imperative syntax.
+Hello there! My name is Joseph Birkner, but I also frequently go by *realitivity* (*Realitivität*). While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow a declarative syntax.
 
 ## About
 
-The name of this blog "*Subject of Information* (Informationswesen) for my blog, because it has a fun (`TM`) heteronymity to it: On one hand, it means "the topic of information". On the other, it describes "a being made of information".
+The name of this blog is "*Subject of Information*" (Deutsch: *Informationswesen*), because the phrase has a fun heteronymity to it:
+ 
+1. It means "the topic of information".
+2. It describes "a being made of information".
 
-Consider the following entries as the former, written by one of the latter `:)`. Some of it is also definitely approved by this friendly guy:
+Consider the my blog posts as members of the former, written by one of the latter `:)`.
 
 ![Giraffe](blog/1_africa/giraffe.png)
 
