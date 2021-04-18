@@ -1,7 +1,7 @@
 
 # Subject of Information
 
-<img alt="Me" src="me.jpg" style="text-align: center; display: inline">
+![me](me.jpg)
 
 Hello there! My name is Joseph, but I also frequently go by *realitivity* (*Realitivität*). While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow an imperative syntax.
 
@@ -11,7 +11,7 @@ The name of this blog "*Subject of Information* (Informationswesen) for my blog,
 
 Consider the following entries as the former, written by one of the latter `:)`. Some of it is also definitely approved by this friendly guy:
 
-![Giraffe](giraffe.transparent.png)
+![Giraffe](blog/1_africa/giraffe.png)
 
 The art above is derived from wall decorations found in the [Ayensudo Primary School, Ghana](https://ayensudoma.wordpress.com/).
 
