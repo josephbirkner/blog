@@ -17,13 +17,13 @@ The art above is derived from wall decorations found in the [Ayensudo Primary Sc
 
 ## Posts
 
-* `2016/01/01`: Metapsychologie auf dem CCC [[Deutsch]](5_metapsychologie/de.md)
-* `2015/11/10`: Iran [[English]](4_iran/en.md)
-* `2015/07/13`: Natural Language Processing [[English]](3_nlp/en.md)
-* `2015/01/28`: Deutschland kennenlernen [[Deutsch]](4_deutschland/de.md)
-* `2014/07/22`: Leaving Ghana [[English]](2_leaving_ghana/en.md)
-* `2013/09/30`: Ramblings on Ghana, Africa and the World [[English]](1_africa/en.md)
-* `2013/09/26`: Komenda [[English]](0_komenda/en.md)
+* `2016/01/01`: Metapsychologie auf dem CCC [[Deutsch]](blog/5_metapsychologie/de.md)
+* `2015/11/10`: Iran [[English]](blog/4_iran/en.md)
+* `2015/07/13`: Natural Language Processing [[English]](blog/3_nlp/en.md)
+* `2015/01/28`: Deutschland kennenlernen [[Deutsch]](blog/4_deutschland/de.md)
+* `2014/07/22`: Leaving Ghana [[English]](blog/2_leaving_ghana/en.md)
+* `2013/09/30`: Ramblings on Ghana, Africa and the World [[English]](blog/1_africa/en.md)
+* `2013/09/26`: Komenda [[English]](blog/0_komenda/en.md)
 
 ## Links
 
