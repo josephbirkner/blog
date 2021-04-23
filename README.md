@@ -1,6 +1,6 @@
-![me](me.jpg)
+## Hello there!
 
-**Hello there!** My name is Joseph, but I also sometimes go by *realitivity*. While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow a strictly declarative syntax.
+My name is Joseph, but I also sometimes go by *realitivity*. While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow a strictly declarative syntax.
 
 ## About
 
