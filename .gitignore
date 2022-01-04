@@ -1,2 +1,4 @@
 *.xcf
 .idea/
+_site/
+.sass-cache/

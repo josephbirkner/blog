@@ -1,15 +1,4 @@
-## Hello there!
-
-My name is Joseph, but I also sometimes go by *realitivity*. While I'm a software engineer by profession, this site is more dedicated to the writings of mine that do not follow a strictly declarative syntax.
-
-## About
-
-The phrase "*Subject of Information*" (Deutsch: *Informationswesen*) has a *fun* heteronymity to it (even in German!):
- 
-1. First meaning: *"the topic of information"*
-2. Second meaning: *"a being made of information"*
-
-Consider my posts as members of the former, written by one of the latter `:)`.
+# Hello There! ![kenobi](./kenobi.png)
 
 ## Posts
 
@@ -20,6 +9,14 @@ Consider my posts as members of the former, written by one of the latter `:)`.
 * `2014/07/22`: Leaving Ghana [[English]](blog/2_leaving_ghana/en.md)
 * `2013/09/30`: Ghana and the World [[English]](blog/1_africa/en.md)
 * `2013/09/26`: Komenda [[English]](blog/0_komenda/en.md)
+
+## About
+
+The phrase "*Subject of Information*" (*Informationswesen* in German) is a [heteronym](https://en.wikipedia.org/wiki/Heteronym_(linguistics))!
+
+Meaning, you can understand it as both *"the topic of information"* and *"a being made of information"*.
+
+Consider my posts as members of the former, written by one of the latter 🤔
 
 ## Links
 
