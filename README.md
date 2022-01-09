@@ -1,6 +1,6 @@
 # Hello There! ![kenobi](./kenobi.png)
 
-Welcome to my Blog, ![Stalker](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)! I go by Joseph Birkner, and I'm a Programmer originally born in Leipzig (Germany), now living wherever life takes me. This place is dedicated to hosting whatever I feel I might want to share that does not fit into a tweet (somehow not much does 🤷‍♂️), and isn't (syntactically strict) code. Enjoy 🙌
+Welcome to my Blog, [Stalker](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.). I go by Joseph Birkner. I am a Programmer originally born in Leipzig (Germany), now living wherever life takes me 🏙️. This place is dedicated to hosting whatever I feel I might want to share that does not fit into a tweet (somehow not much does 🤷‍♂️), and is not (syntactically strict) code. **Enjoy 🙌!**
 
 ## Posts
 
