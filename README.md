@@ -24,7 +24,7 @@ Consider my posts as members of the former, by one of the latter 🤔
 
 You can find many projects that are really important to me on my [Github page](https://github.com/josephbirkner)!
 
-Follow me on <a rel="me" href="https://mastodon.social/@realitivity>Mastodon 🦣</a> for views and occasional hot-ish takes. ️‍🔥
+Follow me on <a rel="me" href="https://mastodon.social/@realitivity">Mastodon 🦣</a> for views and occasional hot-ish takes. ️‍🔥
 
 ## Contact
 
