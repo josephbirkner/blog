@@ -1,0 +1,84 @@
+=============================== PRAGMATIK ===============================
+
+- Semantischer Intonationseinfluss
+  - Betonung   = Akzentuierung ("pitch accent")
+  - Intonation = Sequenz von Akzenten
+  - Prosodie   = Intonation + Phrasierung (z.B. Pausen)
+  - Phonetischer Aspekt:
+    - Beschreibung von Akzenten via s.g. "Tones and Break Indices"
+    - z.B. H* = Hoher Ton, L* = Tiefer Ton, H*+L = Fallender Ton
+
+- Fokus/Hintergrund-Gliederung
+  - Fokus indiziert durch Akzentuierung (u.A. im Deutschen)
+  - Fokus beschreibt kontrastive Information
+  - {Satz}\{Fokus} wird als Hintergrund/"Background" bezeichnet
+
+- Beispiele
+  - Frage-Antwort Fokus, Fokus liegt auf erfragter Information
+  - Korrekturfokus, Fokus liegt auf korrigierter neuer Information
+  - Umsortierung oder Spezifikation existenter Informationen
+
+- Fokusprojektion
+  - Akzent kann sich ..
+    * .. vom Phrasenkopf auf die Phrase (horizontal)
+    * .. von einem internen Argument auf den Phrasenkopf (vertikal)
+    ausbreiten.
+  - Akzent wird markiert mit [<Wort>]F ("Basic Focus Rule")
+
+- Generierung von Alternativen
+  - Fokus generiert ("evoziert") eine Alternativenmenge aus dessen Extension
+  - Fokussensitive Partikel wie "nur", "auch" selegieren die Alternativenmenge
+
+- Implikaturen und Kooperationsprinzip
+  - Begründet durch Arbeiten von Paul Grice
+  - Führten zur Unterscheidung zwischen Semantik und Pragamtik
+  - Implikatur ist ein Neologismus, bedeutet etwa "Andeutung"
+  - Typunterscheidung:
+    * Konventionelle Implikaturen: Bestandteil der globalen Bedeutung eines Ausdrucks
+    * Konversationelle Implikaturen: Enstehen durch implizite Regeln im Protokoll
+
+- Konventionelle Implikaturen
+  - "Engländer sind normalerweise tapfer."
+  - Utterance (Äußerung A), Bedeutung B∈A:
+    ¬A∧B → B ist konventionelle Implikatur
+  - Kann auch als Präsupposition verstanden werden
+
+- Konversationelle Implikaturen
+  - "Ich habe noch nie blau gemacht" impliziert die Assertion "Ich bin verlässlich"
+  - Intendierte Bedeutung q ≠ wörtliche Bedeutung p (z.B. Ironie)
+  - q kann Aufzählende/Implizierende Ambiguität auflösen (p=a∧b, q=a→b)
+  - q kann Implikation in Äquivalenz umwandeln (p=a→b, q=a↔b)
+  - q kann Assertion in Aufforderung umwandeln ("Dort ist die Tür!")
+  - q kann Euphemismus sein (p=positiv, q=negativ)
+  - .. "sind logische Schlussfolgerungen, die aus Prinzipie rationaler Interaktion abgeleitet werden.
+
+- Das Kooperationsprinzip und Konversationsmaximen
+  - "Make your conversational contribution such as required [..]"
+  - Maxim of Quantity  (Necessity and Sufficiency)
+    - Kreiert s.g. "Skalare Implikaturen", konversationelle Äquivalenz von "3" und "genau 3"
+  - Maxim of Quality   (Relative truthfulness, Relative reasonableness)
+  - Maxim of Relevance (Respect to the accepted purpose and direction of the converstion)
+  - Maxim of Modality  (Avoid Ambiguity, Respect Priority and Order of Succession)
+  - Verletzung der Maximen führt zu Implikaturen
+  - Violation of Maxims
+    - 1. For general Misguidance (Lie)
+    - 2. For explicit Reasons
+    - 3. For prioritizing between maxims
+         → e.g. Often between Quality and Qunatity as in ("I cannot say more than I know..")
+    - 4. For extended contributional purposes ("Flouting a maxim")
+         → The maxim is exploited for an Implicature.
+         → Understanding Requires Mutual Knowledge:
+         (1) Conventional semantics of the used expressions within the utterance
+         (2) Mutual trust in knowledge of and respect towards the Principle of Cooperation
+         (3) The context and situation of the utterance
+         (4) Other eventual presuppositions
+         (5) Mutual knowledge that (1-4) are mutually known and respected
+         → Usually changing the atomsphere/modalities of the Conversation:
+         Verletzung des Quantitätsprinzips: "What are his skills?" → "He makes god coffee."
+         Verletzung des Qualitätsprinzips: {Ironie, Meiosis/Hyperbeln, Metaphern}
+         Verletzung des Relevanzprinzips: Abrupter Themenwechsel
+         Verletzung des Modalitätsprinzips: Beenden des Gesprächs (Verweigerung der Kooperation)
+
+=========== DISCLAIMER: Pragmatik ist unvollständig erforscht. ===========
+
+
