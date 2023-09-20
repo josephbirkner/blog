@@ -1,4 +1,6 @@
-
+----
+title: Iran
+---
 
 Nun habe ich also tatsächlich 12 Tage im Iran verbracht! Wie aufregend! Von allen außer-europäischen Urlaubszielen, denen ich mich bisher zugewandt habe, war dieses wohl mit Abstand das kontroverseste. Das liegt natürlich daran, dass das Wort „Iran“ in unserem 24-Stunden Nachrichtenzyklus hauptsächlich in antiwestlichen Kontexten vorkommt. Meiner Erfahrung nach ist das bedingt durch einen giftigen Mix aus US/Israel-Lobby geführter Propaganda (Die Achse des Bösen!) and Iranisch/Russischer Gegenpropaganda (Der große Satan!), welcher die westliche Öffentlichkeit in einer grauen Informations-Suppe zurücklässt, aus der sich Jeder seine Version der „Wahrheit“ zusammenpicken kann. Für mich ein höchst unbefriedigender Zustand. An dieser Stelle eine kleine Anekdote: Als ich auf dem Flughafen in München meinen Flieger nach Teheran bestieg, traf ich einen Nigerianer auf dem Weg nach Hause, der mich fragte, wohin die Reise denn ginge. Als ich stolz „Iran!“ antwortete, zögerte er kurz und meinte dann: „Iran – ist das nicht gefährlich?“ Dies bewies mir einmal mehr, wie hoch und umfassend das Maß an Desinformation ist, und wie relativ die Wahrnehmung von „Gefahr“.
 

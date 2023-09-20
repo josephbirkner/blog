@@ -1,5 +1,6 @@
-Ten Years of Science
-====================
+----
+title: Ten Years of Science
+---
 
 From Winter of 2014 to Summer of 2023, next to my day job as a programmer, I went to university. And in June of 2023, I finally got my degree as a Master of Computer Science at TU Munich! 🍻 Here is my index of wonderful people I got to meet, who inspired and helped me along the way to keep building, learning and writing nice things.
 

@@ -1,4 +1,6 @@
-# Metapsychologie
+----
+title: Metapsychologie
+---
 
 ![CCC](sticker.jpg)
 

@@ -1,4 +1,6 @@
-# Ramblings on Ghana and the Future
+----
+title: Ramblings on Ghana and the Future
+---
 
 ![Giraffe](giraffe.png)
 

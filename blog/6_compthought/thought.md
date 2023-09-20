@@ -1,6 +1,8 @@
-# Can computers think?
+----
+title: Can computers think?
+---
 
-*Essay written as part of my application towards the Robotics program of TU Munich.*
+*An essay written as part of my application towards the Robotics program of TU Munich.*
 
 A brief discussion of the nature of computation and the prospective relevance of consciousness in the pursuit of Artificial Strong Intelligence (ASI).
 

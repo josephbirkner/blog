@@ -1,4 +1,6 @@
-# Komenda
+----
+title: Komenda
+---
 
 ![At the beach](football.jpg)
 
