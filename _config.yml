@@ -1,3 +1,5 @@
 theme: minima
 title: Subject of Information
 description: Some personal things to share.
+minima:
+    skin: dark

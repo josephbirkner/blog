@@ -1,14 +1,15 @@
 ---
-title:
+title: Hello There!
 link: index.html
 ---
 
-# Hello There! ![kenobi](./kenobi.png)
+![stalker dog](stalker-hacker-dog.png)
 
 Welcome to my Blog, [Stalker](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.). I am a Programmer originally from Leipzig/Germany, now living wherever life takes me 🏙️. This place is dedicated to hosting whatever I feel I might want to share that does not fit into a <s>tweet</s> toot (somehow not much does 🤷‍♂️), and is not (syntactically strict) code. **Enjoy 🙌!**
 
 ## Posts
 
+* `2016/01/01`: Metapsychologie auf dem CCC [[Deutsch]](blog/5_metapsychologie/de.md)
 * `2016/01/01`: Metapsychologie auf dem CCC [[Deutsch]](blog/5_metapsychologie/de.md)
 * `2015/11/10`: Iran [[English]](blog/4_iran/en.md) [[Deutsch]](blog/4_iran/de.md)
 * `2015/07/13`: Natural Language Processing [[English]](blog/3_nlp/en.md)
