@@ -1,4 +1,4 @@
-----
+---
 title: Why NLP is cooler than Rocket Science: Language as a tool for understanding cognition and accelerating the advent of ASI
 ---
 

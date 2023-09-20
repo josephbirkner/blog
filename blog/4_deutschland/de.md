@@ -1,4 +1,4 @@
-----
+---
 title: Life imitates Art: Deutschland durch elektronische Musik mögen lernen
 ---
 

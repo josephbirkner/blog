@@ -1,4 +1,4 @@
-----
+---
 title: Ramblings on Ghana and the Future
 ---
 

@@ -1,4 +1,4 @@
-----
+---
 title: Why I am leaving Ghana: Telecommuting, the University of Cape Coast, Yandex and Natural Language Processing
 ---
 

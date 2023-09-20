@@ -1,4 +1,6 @@
-# Iran
+---
+title: Iran
+---
 
 ![Carter and Pahlewi](carter_pahlawi.jpeg)
 

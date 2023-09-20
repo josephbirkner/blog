@@ -1,4 +1,4 @@
-----
+---
 title: Can computers think?
 ---
 
