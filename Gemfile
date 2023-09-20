@@ -7,6 +7,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 
+gem "minima"
 gem 'jekyll-theme-monospace', '~> 0.1.16'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
