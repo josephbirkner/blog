@@ -1,5 +1,5 @@
 ---
-title: Why I am leaving Ghana: Telecommuting, the University of Cape Coast, Yandex and Natural Language Processing
+title: "Why I am leaving Ghana: Telecommuting, the University of Cape Coast, Yandex and Natural Language Processing"
 ---
 
 ![Ghana Airways](Ghana_Airways_VC-10_AMS_1965-8-1.png)

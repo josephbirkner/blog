@@ -1,5 +1,5 @@
 ---
-title: Life imitates Art: Deutschland durch elektronische Musik mögen lernen
+title: "Life imitates Art: Deutschland durch elektronische Musik mögen lernen"
 ---
 
 ![Deutschland](deutschland.jpg)

@@ -9,8 +9,8 @@ Welcome to my Blog, [Stalker](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.). I a
 
 ## Posts
 
-* `wip_______`: Ten Years Of Science [[English]](blog/6_msc/msc.md)
-* `2017/05/27`: Can Computers Think? [[English]](blog/6_compthought/thought.md)
+* `wip_______`: Ten Years Of Science [[English]](blog/6_msc/en.md)
+* `2017/05/27`: Can Computers Think? [[English]](blog/6_compthought/en.md)
 * `2016/01/01`: Metapsychologie auf dem CCC [[Deutsch]](blog/5_metapsychologie/de.md)
 * `2015/11/10`: Iran [[English]](blog/4_iran/en.md) [[Deutsch]](blog/4_iran/de.md)
 * `2015/07/13`: Natural Language Processing [[English]](blog/3_nlp/en.md)

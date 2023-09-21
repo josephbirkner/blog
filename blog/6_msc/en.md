@@ -93,7 +93,7 @@ it's environment?", or "How could a Neural Network be improved to be able learn 
 I am having a hard time trying to come up with information that I might learn during my studies, that is not related to at least one of the 
 questions that I am already asking myself furiously!*
 
-I also had to write an essay on the topic of [*Can Computers Think?*](../6_compthought/thought.md). The thoughts in this essay have stayed with me to this day.
+I also had to write an essay on the topic of [*Can Computers Think?*](../6_compthought/en.md). The thoughts in this essay have stayed with me to this day.
 
 ### The Roboy Project
 
